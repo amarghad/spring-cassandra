@@ -32,7 +32,7 @@ volumes:
 ### Starting cluster
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ### Create keyspace
